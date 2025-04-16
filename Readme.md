@@ -21,7 +21,8 @@ This repository contains implementations of several machine learning models:
 
 The decision tree classifier is trained on the Iris dataset to predict flower species based on petal and sepal measurements. The model achieves good accuracy and the decision boundaries are visualized to show how the model makes predictions.
 
-![Decision Tree Visualization](images/decision_tree.png)
+![image](https://github.com/user-attachments/assets/7e289ee2-6db5-43b7-99f4-33f6f68aad84)
+
 
 *Decision tree showing the classification process for the Iris dataset. The tree uses features like petal length and width to distinguish between flower species.*
 
@@ -42,7 +43,8 @@ A convolutional neural network implemented with TensorFlow/Keras for the CIFAR-1
 - Dense layers for classification
 - Training with categorical cross-entropy loss
 
-![CNN Training Performance](images/cnn_training.png)
+![image](https://github.com/user-attachments/assets/88e132d9-c487-48fc-bf31-9568f927cac0)
+
 
 *Training and validation accuracy curves for the CNN model. The model achieved a test accuracy of 70.61% on the CIFAR-10 dataset. The lower image shows a successful prediction of a cat image.*
 
@@ -58,7 +60,8 @@ Two recommendation approaches are implemented for a Spotify songs dataset:
 - Combines collaborative filtering with song audio features
 - Incorporates content-based information like danceability, energy, tempo
 
-![Recommendation System Performance](images/recommendation_loss.png)
+![image](https://github.com/user-attachments/assets/8e5bf9cc-001e-4e09-9943-572ac2798c61)
+
 
 *Comparison of loss curves between Collaborative Filtering (left) and Hybrid Model (right). The hybrid model demonstrates significantly lower MSE, showing the advantage of combining collaborative filtering with content-based features.*
 
